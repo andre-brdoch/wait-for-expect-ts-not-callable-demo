@@ -1,0 +1,16 @@
+{
+  "name": "wait-for-expect-ts-not-callable-demo",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "4.0.16",
+    "wait-for-expect": "4.0.0"
+  }
+}
